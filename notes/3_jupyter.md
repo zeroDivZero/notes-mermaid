@@ -5,6 +5,7 @@ In modern JupyterLab or Notebook (7+), Mermaid rendering is directly supported i
 Steps:
 
 1. Create Markdown cell (in top dropdown, change cell type, usually `Code`, to `Markdown`).
+
 2. Add Mermaid syntax within fenced `mermaid` block:
 
     ````text

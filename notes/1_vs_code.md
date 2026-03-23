@@ -2,7 +2,7 @@
 
 Install **Markdown Preview Mermaid Support** extension.
 
-In Markdown file, can create diagram with `mermaid` block:
+In Markdown file, create diagram with `mermaid` block:
 
 ````text
 ```mermaid
